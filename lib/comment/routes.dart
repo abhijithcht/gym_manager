@@ -1,0 +1,17 @@
+// routes: {
+// '/homepage': (context) => const MainPage(),
+// '/signup': (context) => const SignUpPage(),
+// '/signin': (context) => const SignInPage(),
+// '/member': (context) => const GymMembers(),
+// '/trainer': (context) => const GymTrainers(),
+// '/equipment': (context) => const GymEquipments(),
+// '/account': (context) => const GymAccounts(),
+// '/newMember': (context) => const AddMember(),
+// '/newTrainer': (context) => const AddTrainer(),
+// '/newEquipment': (context) => const AddEquipment(),
+// '/addExpense': (context) => const AddExpenses(),
+// '/addRevenue': (context) => const AddRevenue(),
+// '/expense': (context) => const ViewExpenses(),
+// '/revenue': (context) => const ViewRevenue(),
+// '/notify': (context) => const GymNotification(),
+// }
